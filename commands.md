@@ -3,6 +3,7 @@
 `sudo ufw allow http`  
 `sudo ufw allow https`  
 `sudo ufw enable`  
+`sudo ufw status`
 
 # Install LetsEncrypt  
 
